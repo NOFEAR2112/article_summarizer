@@ -50,10 +50,3 @@ This is a Python application that provides a graphical user interface (GUI) for 
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace `your_username` with your actual GitHub username. You can add more details, such as installation instructions for specific operating systems or additional usage examples, as needed.
